@@ -43,18 +43,42 @@ The PreProcessing Steps done For the Prilimnary Project is-
 The Feature Extraction From the point Cloud is-
 
 1.Eigen Values
+
+
 2.Anisotrophy
+
+
 3.Curvature
+
+
 4.EigenTrophy
+
+
 5.EigenSum
+
+
 6.Linearity
+
+
 7.Omnivariance
+
+
 8.Planarity
+
+
 9.Spehericity
+
+
 
 The further Feature extraction that will be included in the further models are-
 
 1.Slope
+
+
 2.Height horizontal and vertical
+
+
 3.Angular Features
+
+
 4.Moments Calculation 
