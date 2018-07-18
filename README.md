@@ -26,7 +26,35 @@ The libraries needed for the processing are-
 
 6.Anaconda and Jupyuter Notebook
 
+
+7.Open3D
+
 The Prelimnary Project Has been uploaded,later on the optimizing steps of Preprocessing and Post processing will be done which would further be supported by introduction of Deep Learning Models inturn to have an ebb over the benchmark Accuracy set on this dataset.
 
 Dataset Used-Paris Rue Madam Dataset(http://cmm.ensmp.fr/~serna/rueMadameDataset.html)
 The algorithms used for classification in the basic model-Random Forests
+
+Note:The Better library and Documentation for Point Cloud manipulation in Python is PCL-Python binding(https://github.com/strawlab/python-pcl).If C++ then the PCL library will be the best.
+
+The PreProcessing Steps done For the Prilimnary Project is-
+
+1.Voxel Grid Downsampling or Filtering
+
+The Feature Extraction From the point Cloud is-
+
+1.Eigen Values
+2.Anisotrophy
+3.Curvature
+4.EigenTrophy
+5.EigenSum
+6.Linearity
+7.Omnivariance
+8.Planarity
+9.Spehericity
+
+The further Feature extraction that will be included in the further models are-
+
+1.Slope
+2.Height horizontal and vertical
+3.Angular Features
+4.Moments Calculation 
