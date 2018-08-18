@@ -1,5 +1,4 @@
 # Urban-point-cloud-classification
-# Urban-point-cloud-classification
 Point Cloud is a cloud of 3D points representing a particular object,Scene,etc.
 
 This is a research Project which Focuses on classifying the respective points to its respective object cloud.There are 2 methods of doing this namely-
