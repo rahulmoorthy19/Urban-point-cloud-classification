@@ -37,7 +37,7 @@ The algorithms used for classification in the basic model-Random Forests
 
 Note:The Better library and Documentation for Point Cloud manipulation in Python is PCL-Python binding(https://github.com/strawlab/python-pcl).If C++ then the PCL library will be the best.
 
-The PreProcessing Steps done For the Prilimnary Project is-
+The PreProcessing Steps which can be done For the  Project is-
 
 1.Voxel Grid Downsampling or Filtering
 
@@ -71,7 +71,7 @@ The Feature Extraction From the point Cloud is-
 
 
 
-The further Feature extraction that can be included in the further models are-
+The further Feature extraction that can be included  are-
 
 1.Slope
 
